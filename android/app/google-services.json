@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795543860677",
+    "project_id": "cinemahub-roihanfs",
+    "storage_bucket": "cinemahub-roihanfs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795543860677:android:c548f50d30333c7ab5c7ac",
+        "android_client_info": {
+          "package_name": "com.example.film"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDJAW8bNiOhfUijixRPWyBGluCtxG9IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
